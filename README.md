@@ -39,3 +39,7 @@
 
 ![K](https://user-images.githubusercontent.com/57038468/72215140-4a90b300-350f-11ea-9af5-14970dd1bf1f.png)
 
+
+<strong>Flofchart</strong>
+
+![](flow-chart.jpg)
