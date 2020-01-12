@@ -1,7 +1,7 @@
 # TUGAS 5
 Berikut adalah dictionary yang didefinisikan terlebih dahulu :  
   daftar = {}
-Selanutnya adalah perulangan yang diggunakan :
+Selanjutnya adalah perulangan yang diggunakan :
   while True
   statement
  Perulangan diatas adalah perulangan yang akan berjalan terus menerus dan akan berhenti jika kode berikut di eksekusi :
