@@ -9,4 +9,5 @@
   - break
  4. Kode diatas berfungsi untuk menghentikan perulangan yang berlangsung terus menerus tanpa ada kondisi untuk dipenuhi ditulis didalam kondisi if
  # OUTPUT
+![out](https://user-images.githubusercontent.com/57038468/72214644-a571dc80-3506-11ea-9906-5628929b46ce.png)
  
