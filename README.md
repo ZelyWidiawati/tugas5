@@ -19,3 +19,10 @@
 ![T](https://user-images.githubusercontent.com/57038468/72215031-d6a1db00-350d-11ea-8981-ebae25bb09d6.png)
 - U = untuk mengubah data
 ![U](https://user-images.githubusercontent.com/57038468/72215047-15379580-350e-11ea-8b87-8cc711d65853.png)
+- H = untuk menghapus data
+![h](https://user-images.githubusercontent.com/57038468/72215102-f259b100-350e-11ea-9228-8e82e1525203.png)
+- C = Untuk mencari data
+![c](https://user-images.githubusercontent.com/57038468/72215122-1e753200-350f-11ea-8a38-dd9b5cf7e086.png)
+- K = Untuk keluar dari program
+![K](https://user-images.githubusercontent.com/57038468/72215140-4a90b300-350f-11ea-9af5-14970dd1bf1f.png)
+
