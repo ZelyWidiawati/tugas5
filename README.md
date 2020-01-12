@@ -8,4 +8,5 @@
   - if perintah.lower() =='k'
   - break
  4. Kode diatas berfungsi untuk menghentikan perulangan yang berlangsung terus menerus tanpa ada kondisi untuk dipenuhi ditulis didalam kondisi if
+ # OUTPUT
  
