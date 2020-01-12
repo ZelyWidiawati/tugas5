@@ -17,3 +17,5 @@
 ![L](https://user-images.githubusercontent.com/57038468/72215015-95a9c680-350d-11ea-911b-fe17f668894c.png)
 - T = untuk menambah data yang akan di ubah
 ![T](https://user-images.githubusercontent.com/57038468/72215031-d6a1db00-350d-11ea-8981-ebae25bb09d6.png)
+- U = untuk mengubah data
+![U](https://user-images.githubusercontent.com/57038468/72215047-15379580-350e-11ea-8b87-8cc711d65853.png)
