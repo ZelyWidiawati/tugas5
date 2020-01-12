@@ -13,5 +13,6 @@
  
    -  Jika k di input dan lower() digunakan untuk mengkonversi input yang dimasukan ke bentuk lower case dan Input k digunakan berdasarkan perintah yang sudah di masukan dalam keterangan pada fungsi input di bawah ini :
    ![2](https://user-images.githubusercontent.com/57038468/72214664-24ffab80-3507-11ea-8a10-d3fef89af070.png)
-
+- L = untuk melihat data yang telah di inputkan
+![L](https://user-images.githubusercontent.com/57038468/72215015-95a9c680-350d-11ea-911b-fe17f668894c.png)
 
