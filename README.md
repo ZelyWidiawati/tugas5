@@ -15,4 +15,5 @@
    ![2](https://user-images.githubusercontent.com/57038468/72214664-24ffab80-3507-11ea-8a10-d3fef89af070.png)
 - L = untuk melihat data yang telah di inputkan
 ![L](https://user-images.githubusercontent.com/57038468/72215015-95a9c680-350d-11ea-911b-fe17f668894c.png)
-
+- T = untuk menambah data yang akan di ubah
+![T](https://user-images.githubusercontent.com/57038468/72215031-d6a1db00-350d-11ea-8981-ebae25bb09d6.png)
